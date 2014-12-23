@@ -1,0 +1,10 @@
+E:\PL\~课程\~Practise\C#\WF\WF45GettingStartedTutorial\NumberGuessWorkflowHost\bin\Debug\NumberGuessWorkflowHost.exe.config
+E:\PL\~课程\~Practise\C#\WF\WF45GettingStartedTutorial\NumberGuessWorkflowHost\obj\x86\Debug\NumberGuessWorkflowHost.csprojResolveAssemblyReference.cache
+E:\PL\~课程\~Practise\C#\WF\WF45GettingStartedTutorial\NumberGuessWorkflowHost\obj\x86\Debug\NumberGuessWorkflowHost.WorkflowHostForm.resources
+E:\PL\~课程\~Practise\C#\WF\WF45GettingStartedTutorial\NumberGuessWorkflowHost\obj\x86\Debug\NumberGuessWorkflowHost.csproj.GenerateResource.Cache
+E:\PL\~课程\~Practise\C#\WF\WF45GettingStartedTutorial\NumberGuessWorkflowHost\bin\Debug\NumberGuessWorkflowHost.exe
+E:\PL\~课程\~Practise\C#\WF\WF45GettingStartedTutorial\NumberGuessWorkflowHost\bin\Debug\NumberGuessWorkflowHost.pdb
+E:\PL\~课程\~Practise\C#\WF\WF45GettingStartedTutorial\NumberGuessWorkflowHost\bin\Debug\NumberGuessWorkflowActivities.dll
+E:\PL\~课程\~Practise\C#\WF\WF45GettingStartedTutorial\NumberGuessWorkflowHost\bin\Debug\NumberGuessWorkflowActivities.pdb
+E:\PL\~课程\~Practise\C#\WF\WF45GettingStartedTutorial\NumberGuessWorkflowHost\obj\x86\Debug\NumberGuessWorkflowHost.exe
+E:\PL\~课程\~Practise\C#\WF\WF45GettingStartedTutorial\NumberGuessWorkflowHost\obj\x86\Debug\NumberGuessWorkflowHost.pdb
